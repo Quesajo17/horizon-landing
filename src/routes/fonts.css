@@ -1,0 +1,15 @@
+/* fonts.css */
+
+@font-face {
+    font-family: 'Moontime';
+    font-style: normal;
+    font-weight: 500;
+    src: url('/fonts/moontime-regular.ttf'); /* IE9 Compat Modes */
+}
+
+@font-face {
+    font-family: 'Opti-Goudy';
+    font-style: normal;
+    font-weight: 500;
+    src: url('/fonts/OPTIwtcGoudy-Regular.otf'); /* IE9 Compat Modes */
+}
