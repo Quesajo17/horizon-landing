@@ -78,10 +78,24 @@ h3 {
 
 .hero-img .button {
     position: absolute;
-  top: 55%;
-  left: 80%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
+  top: 40%;
+  left: 70%;
+  width: 140px;
+  border-radius: 4px;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 16px;
+	background-color: var(--dark-color);
+    opacity: 0.7;
+	color: var(--light-color);
+  /* transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);*/ 
+}
+
+.hero-img .button:hover {
+    opacity: 1;
 }
 
 .details {
