@@ -4,7 +4,7 @@
 
 <footer>
 	<div class="footer-copyright">
-		<span>Copyright Page Fam Designs, LLC, 2024</span>
+		<span>Copyright Page Fam Designs, LLC, 2025</span>
 	</div>
 	<div class="footer-links">
 		<a class="header-link" href="/">

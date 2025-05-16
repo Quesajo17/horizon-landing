@@ -3,10 +3,6 @@
     import './fonts.css';
     import SlotMachine from './SlotMachine.svelte';
     import Testimonials from './Testimonials.svelte';
-    import journalCover from '/images/Horizon_Cover.jpg';
-    import packingList from '/images/Horizon_Packing_List.jpg';
-    import returnPage from '/images/Horizon_Return.jpg';
-    import bestMoments from '/images/Horizon_Best_Moments.jpg';
 
 </script>
 <div class="hero">
@@ -18,7 +14,7 @@
         <p class="">Using this journal for your reasons is a good thing to do.</p>
     </div>
     <div class="hero-img">
-        <img src={journalCover} alt="Journal" />
+        <img src='/images/Horizon_Cover.jpg' alt="Journal" />
         <a href="https://store.horizontraveljournal.com/products/horizon-travel-journal" ><div class="button">
             BUY THE JOURNAL
         </div></a>
@@ -28,19 +24,84 @@
     <div class="details-trio">
         <div class="details-item">
             <h3>Travel Companion</h3>
-            <img src={packingList} alt="Packing List Page" />
+            <img src='/images/Horizon_Packing_List.jpg' alt="Packing List Page" />
             <p>Travel with a companion</p>
         </div>
         <div class="details-item">
             <h3>Guided Journal</h3>
-            <img src={returnPage} alt="Return Page" />
+            <img src='/images/Horizon_Return.jpg' alt="Return Page" />
             <p>Journal your travels</p>
         </div>
         <div class="details-item">
             <h3>Travel Keepsake</h3>
-            <img src={bestMoments} alt="The Best Moments Page" />
+            <img src='/images/Horizon_Best_Moments.jpg' alt="The Best Moments Page" />
             <p>Keep your memories</p>
         </div>
     </div>
     <Testimonials />
 </div>
+
+<style>
+    .hero {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 2rem;
+        gap: 2rem;
+    }
+
+    .hero-cta {
+        flex: 1;
+    }
+
+    .hero-img {
+        flex: 1;
+    }
+
+    .hero-img img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .details-trio {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+        padding: 2rem;
+    }
+
+    .details-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .details-item img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    /* Media query for mobile */
+    @media (max-width: 768px) {
+        .hero {
+            flex-direction: column;
+            text-align: center;
+        }
+
+        .hero-img {
+            width: 100%;
+        }
+
+        .details-trio {
+            grid-template-columns: 1fr;
+            gap: 3rem;
+            max-width: 500px;
+            margin: 0 auto;
+        }
+
+        .details-item {
+            width: 100%;
+        }
+    }
+</style>
