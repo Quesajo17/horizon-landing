@@ -51,8 +51,8 @@
 	}
 
 	.brand-image {
-		width: 4em;
-		height: 4em;
+		width: 80px;
+		height: 80px;
 		object-fit: contain;
 		border-radius: 20%;
 	}
@@ -83,8 +83,8 @@
 
 
 	.logo {
-		width: 4em;
-		height: 4em;
+		width: 80px;
+		height: 80px;
 		object-fit: contain;
 		border-radius: 20%;
 	}

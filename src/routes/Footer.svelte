@@ -7,9 +7,15 @@
 		<span>Copyright Page Fam Designs, LLC, 2024</span>
 	</div>
 	<div class="footer-links">
-		<a href="https://www.blog.lattisapp.com">Blog</a>
-		<a href="/privacy-policy">Privacy Policy</a>
-		<a href="/support">Support</a>
+		<a class="header-link" href="https://www.blog.lattisapp.com">
+			Home
+		</a>
+		<a class="header-link" href="https://www.blog.lattisapp.com">
+			About
+		</a>
+		<a class="header-link" href="https://www.blog.lattisapp.com">
+			Contact Us
+		</a>
 	</div>
 </footer>
 

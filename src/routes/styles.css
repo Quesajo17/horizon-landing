@@ -1,5 +1,6 @@
 :root {
-    --color-bg-0: #f1e7de;
+    /* --color-bg-0: #f1e7de; */
+    --color-bg-0: #f4decb;
     --color-bg-1: #fff;
     --dark-color: #000000;
 	--light-color: #fff;
@@ -74,6 +75,7 @@ h3 {
 .hero-img img {
     width: 400px;
     height: 315px;
+    object-fit: contain;
 }
 
 .hero-img .button {
@@ -121,6 +123,7 @@ h3 {
 .details-item img {
     width: 150px;
     height: 120px;
+    object-fit: contain;
 }
 
 
