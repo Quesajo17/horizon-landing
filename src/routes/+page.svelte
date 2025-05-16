@@ -15,9 +15,9 @@
     </div>
     <div class="hero-img">
         <img src="../src/lib/images/Horizon_Cover.jpg" alt="Journal" />
-        <div class="button" href="https://www.blog.lattisapp.com">
+        <a href="https://store.horizontraveljournal.com/products/horizon-travel-journal" ><div class="button">
             BUY THE JOURNAL
-        </div>
+        </div></a>
     </div>
 </div>
 <div class="details">
@@ -40,3 +40,8 @@
     </div>
     <Testimonials />
 </div>
+<nav>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/contact">Contact</a>
+</nav>

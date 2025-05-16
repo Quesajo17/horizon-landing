@@ -11,21 +11,21 @@
 	</div>
 	</div>
 	<div class="header-links">
-		<a class="header-link" href="https://www.blog.lattisapp.com">
+		<a class="header-link" href="/">
 			Home
 		</a>
-		<a class="header-link" href="https://www.blog.lattisapp.com">
+		<a class="header-link" href="/about">
 			About
 		</a>
-		<a class="header-link" href="https://www.blog.lattisapp.com">
+		<a class="header-link" href="/contact">
 			Contact Us
 		</a>
 	</div>
 
 
-	<div class="button" href="https://www.blog.lattisapp.com">
+	<a href="https://store.horizontraveljournal.com/"><div class="button">
 		SHOP
-	</div>
+	</div></a>
 
 </header>
 
