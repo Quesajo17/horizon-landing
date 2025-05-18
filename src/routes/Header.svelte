@@ -150,5 +150,19 @@
 		.button {
 			margin-top: 1em;
 		}
+
+		.brand-image {
+		width: 60px;
+		height: 60px;
+		object-fit: contain;
+		border-radius: 20%;
+	}
+
+	.logo {
+		width: 60px;
+		height: 60px;
+		object-fit: contain;
+		border-radius: 20%;
+	}
 	}
 </style>
