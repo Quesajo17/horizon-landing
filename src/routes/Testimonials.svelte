@@ -1,4 +1,6 @@
 <script>
+    import { onMount } from 'svelte';
+    
     let testimonials = [
       { text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", name: "John Doe" },
       { text: "Integer vitae enim sit amet ex ultricies condimentum.", name: "Jane Smith" },
@@ -16,8 +18,39 @@
   
     let testimonialsPerPage = 3;
     let currentPage = 0;
+    let windowWidth;
+
+    // Function to update testimonials per page based on window width
+    function updateTestimonialsPerPage() {
+        if (windowWidth <= 768) {
+            testimonialsPerPage = 1;
+        } else {
+            testimonialsPerPage = 3;
+        }
+        // Adjust current page if needed
+        const maxPages = Math.ceil(testimonials.length / testimonialsPerPage);
+        if (currentPage >= maxPages) {
+            currentPage = maxPages - 1;
+        }
+    }
+
+    onMount(() => {
+        windowWidth = window.innerWidth;
+        updateTestimonialsPerPage();
+
+        // Add resize listener
+        window.addEventListener('resize', () => {
+            windowWidth = window.innerWidth;
+            updateTestimonialsPerPage();
+        });
+
+        // Cleanup
+        return () => {
+            window.removeEventListener('resize', updateTestimonialsPerPage);
+        };
+    });
     
-    // Reactive declaration to calculate max pages
+    // Reactive declarations
     $: maxPages = Math.ceil(testimonials.length / testimonialsPerPage);
     $: visibleTestimonials = testimonials.slice(
         currentPage * testimonialsPerPage, 
