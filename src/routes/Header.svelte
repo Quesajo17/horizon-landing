@@ -26,7 +26,9 @@
 	<nav class="header-links" class:open={isMenuOpen}>
 		<a class="header-link menu-link" href="https://store.horizontraveljournal.com/" on:click={() => isMenuOpen = false}>Shop</a>
 		<a class="header-link" href="/" on:click={() => isMenuOpen = false}>Home</a>
+		<div class="menu-divider"></div>
 		<a class="header-link" href="/about" on:click={() => isMenuOpen = false}>About</a>
+		<div class="menu-divider"></div>
 		<a class="header-link" href="/contact" on:click={() => isMenuOpen = false}>Contact Us</a>
 	</nav>
 
@@ -46,12 +48,6 @@
 		display: flex;
 		align-items: center;
 		padding-left: 1em;
-	}
-
-	.brand-name {
-		font-size: 1.5em;
-		font-weight: 500;
-		margin-left: 1em;
 	}
 
 	.brand-image {
@@ -82,6 +78,10 @@
 		font-family: sans-serif;
 	}
 
+	.menu-link {
+		display: none;
+	}
+
 	.header-link:hover {
 		text-decoration: underline;
 	}
@@ -110,6 +110,10 @@
 		
 	}
 
+	.menu-divider {
+		display: none; /* Hidden by default on desktop */
+	}
+
 	/* Mobile styles */
 	@media (max-width: 768px) {
 		header {
@@ -131,7 +135,7 @@
 			top: 100%;
 			right: 0;
 			background: white;
-			padding: 2em;
+			padding: 1em 0em;
 			box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 			width: 100%;
 			text-align: center;
@@ -143,9 +147,13 @@
 		}
 
 		.header-link {
-			padding: 1em;
+			padding: 0.5em;
 			width: 100%;
 		}
+
+		.menu-link {
+		display: none;
+	}
 
 		.button {
 			margin-top: 1em;
@@ -164,5 +172,13 @@
 		object-fit: contain;
 		border-radius: 20%;
 	}
+
+		.menu-divider {
+			display: block;
+			width: 100%;
+			height: 1px;
+			background-color: #e0e0e0;
+			margin: 0;
+		}
 	}
 </style>

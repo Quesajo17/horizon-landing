@@ -45,4 +45,22 @@ h3 {
 	color: var(light-color);
 }
 
+.footer-copyright {
+    padding: 8px;
+    text-decoration: none;
+    color: var(--color-text);
+    font-family: sans-serif;
+}
+
+.header-link {
+    padding: 1em;
+    text-decoration: none;
+    color: var(--color-text);
+    font-family: sans-serif;
+}
+
+.header-link:hover {
+    text-decoration: underline;
+}
+
 
