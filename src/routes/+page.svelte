@@ -10,35 +10,50 @@
         <div class="hero-header">
             <span class="hero-title">Horizon is</span><span class="hero-subtitle"><SlotMachine /></span>
         </div>
-        <p class="">Here is a travel journal that will be a beautiful keepsake, a lovely journal, and something else.</p>
-        <p class="">Using this journal for your reasons is a good thing to do.</p>
+        <p class="">Build your excitement as you plan, absorb your favorite moments during your trip and bring the best parts back home!</p>
     </div>
     <div class="hero-img">
-        <img src='/images/Horizon_Cover.jpg' alt="Journal" />
+        <img src='/images/Horizon_Journal.jpg' alt="Journal" />
         <a class="button" href="https://store.horizontraveljournal.com/products/horizon-travel-journal">
             BUY THE JOURNAL
         </a>
     </div>
 </div>
 <div class="details">
+    
     <div class="details-trio">
         <div class="details-item">
-            <h3>Travel Companion</h3>
-            <img src='/images/Horizon_Packing_List.jpg' alt="Packing List Page" />
-            <p>Travel with a companion</p>
+            <h3>Before</h3>
+            <!-- <img src='/images/Horizon_Packing_List.jpg' alt="Packing List Page" /> -->
+            
+                <p>
+                    Fuel your excitement and record important preparations before
+                    your trip even begins with sections including intention setting, 
+                    packing list, itinerary, travel budget, and more. </p>
         </div>
         <div class="details-item">
-            <h3>Guided Journal</h3>
-            <img src='/images/Horizon_Return.jpg' alt="Return Page" />
-            <p>Journal your travels</p>
+            <h3>During</h3>
+            <!-- <img src='/images/Horizon_Return.jpg' alt="Return Page" /> -->
+            <p>Record the daily events and important logistics as you travel, and
+                reflect on your experiences with over two dozen prompts including 
+                five sense journaling.
+            </p>
         </div>
         <div class="details-item">
-            <h3>Travel Keepsake</h3>
-            <img src='/images/Horizon_Best_Moments.jpg' alt="The Best Moments Page" />
-            <p>Keep your memories</p>
+            <h3>After</h3>
+            <!-- <img src='/images/Horizon_Best_Moments.jpg' alt="The Best Moments Page" /> -->
+            <p>A trip often lingers with us for weeks, months 
+                or even years after we return home. Not only does 
+                Horizon offer space for planning before and recording 
+                your experiences during your trip, it guides you through 
+                the often forgotten, but surprisingly meaningful final 
+                leg of the journey, your arrival back home. </p>
         </div>
     </div>
-    <Testimonials />
+    <!--
+        <Testimonials />
+    -->
+
 </div>
 
 <style>

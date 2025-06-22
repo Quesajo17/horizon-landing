@@ -49,14 +49,14 @@ h3 {
     padding: 8px;
     text-decoration: none;
     color: var(--color-text);
-    font-family: sans-serif;
+    font-family: 'Opti-Goudy',sans-serif;
 }
 
 .header-link {
     padding: 1em;
     text-decoration: none;
     color: var(--color-text);
-    font-family: sans-serif;
+    font-family: 'Opti-Goudy', sans-serif;
 }
 
 .header-link:hover {

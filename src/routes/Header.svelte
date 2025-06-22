@@ -75,7 +75,7 @@
 		padding: 1em;
 		text-decoration: none;
 		color: var(--color-text);
-		font-family: sans-serif;
+		font-family: 'Opti-Goudy', sans-serif;
 	}
 
 	.menu-link {
