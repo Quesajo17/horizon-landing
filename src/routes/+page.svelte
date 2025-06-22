@@ -35,20 +35,22 @@
             <h3>During</h3>
             <!-- <img src='/images/Horizon_Return.jpg' alt="Return Page" /> -->
             <p>Record the daily events and important logistics as you travel, and
-                reflect on your experiences with over two dozen prompts including 
-                five sense journaling.
-            </p>
+                reflect on your experiences with over two dozen prompts that tap into
+            your thoughts, emotions, and sensations as you travel.</p>
         </div>
         <div class="details-item">
             <h3>After</h3>
             <!-- <img src='/images/Horizon_Best_Moments.jpg' alt="The Best Moments Page" /> -->
-            <p>A trip often lingers with us for weeks, months 
-                or even years after we return home. Not only does 
-                Horizon offer space for planning before and recording 
-                your experiences during your trip, it guides you through 
-                the often forgotten, but surprisingly meaningful final 
-                leg of the journey, your arrival back home. </p>
+            <p>Horizon helps you navigate the often-overlooked journey home, with space 
+                to reflect, remember, and weave your travel inspiration into the 
+                life you return to.</p>
         </div>
+    </div>
+    <div class="main-quote">
+        <p class="main-quote-line">No journey carries one far unless,</p>
+        <p class="main-quote-line">as it extends into the world around us,</p>
+        <p class="main-quote-line">it goes an equal distance into the world within.</p>
+        <p class="main-quote-attribution">-Lillian Smith</p>
     </div>
     <!--
         <Testimonials />
@@ -152,6 +154,21 @@
         margin-bottom: 1rem;
     }
 
+    .main-quote {
+        font-family: 'Moontime', sans-serif;
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .main-quote-line {
+       margin: 0;
+    }
+
+    .main-quote-attribution {
+        margin-top: 0.5rem;
+    }
+
+
     /* Tablet styles */
     @media (max-width: 1024px) {
         .hero {
@@ -189,6 +206,10 @@
             max-width: 500px;
             padding: 1rem;
         }
+
+        .main-quote {
+        font-size: 1.5rem;
+    }
     }
 
     /* Small mobile screens */
@@ -196,5 +217,9 @@
         .hero-img {
             max-width: 100%;
         }
+
+        .main-quote {
+        font-size: 1rem;
+    }
     }
 </style>
