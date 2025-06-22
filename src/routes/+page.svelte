@@ -46,17 +46,19 @@
                 life you return to.</p>
         </div>
     </div>
+        <!--
+        <Testimonials />
+    -->
+    </div>
     <div class="main-quote">
         <p class="main-quote-line">No journey carries one far unless,</p>
         <p class="main-quote-line">as it extends into the world around us,</p>
         <p class="main-quote-line">it goes an equal distance into the world within.</p>
         <p class="main-quote-attribution">-Lillian Smith</p>
     </div>
-    <!--
-        <Testimonials />
-    -->
 
-</div>
+
+
 
 <style>
     /* Hero section styles */
@@ -155,6 +157,8 @@
     }
 
     .main-quote {
+        margin-top: 2rem;
+        width: 100%;
         font-family: 'Moontime', sans-serif;
         font-size: 2rem;
         text-align: center;
@@ -218,8 +222,5 @@
             max-width: 100%;
         }
 
-        .main-quote {
-        font-size: 1.5rem;
-    }
     }
 </style>
