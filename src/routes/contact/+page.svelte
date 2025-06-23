@@ -2,18 +2,13 @@
     <h1>Contact Us</h1>
     <div class="content">
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor 
-            incididunt ut labore et dolore magna aliqua. Get in touch with us at:
+            If you have any comments, questions, or feedback on the journal, feel free to
+            drop us a line at:
         </p>
         
         <div class="contact-info">
-            <p>📧 Email: info@horizontraveljournal.com</p>
+            <p>📧 Email: <a href="mailto:info@horizontraveljournal.com">info@horizontraveljournal.com</a></p>
         </div>
-        
-        <p>
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
-            eu fugiat nulla pariatur. We look forward to hearing from you!
-        </p>
     </div>
 </div>
 
