@@ -27,21 +27,21 @@
             <!-- <img src='/images/Horizon_Packing_List.jpg' alt="Packing List Page" /> -->
             
                 <p>
-                    Fuel your excitement and record important preparations before
+                    Fuel your excitement while recording important preparations before
                     your trip even begins with sections including intention setting, 
                     packing list, itinerary, travel budget, and more. </p>
         </div>
         <div class="details-item">
             <h3>During</h3>
             <!-- <img src='/images/Horizon_Return.jpg' alt="Return Page" /> -->
-            <p>Record the daily events and important logistics as you travel, and
+            <p>Record daily events and important logistics during your trip, and
                 reflect on your experiences with over two dozen prompts that tap into
             your thoughts, emotions, and sensations as you travel.</p>
         </div>
         <div class="details-item">
             <h3>After</h3>
             <!-- <img src='/images/Horizon_Best_Moments.jpg' alt="The Best Moments Page" /> -->
-            <p>Horizon helps you navigate the often-overlooked journey home, with space 
+            <p>Navigate the often-overlooked journey home, with space 
                 to reflect, remember, and weave your travel inspiration into the 
                 life you return to.</p>
         </div>
@@ -51,11 +51,15 @@
     -->
     </div>
     <div class="main-quote">
-        <p class="main-quote-line">No journey carries one far unless,</p>
-        <p class="main-quote-line">as it extends into the world around us,</p>
-        <p class="main-quote-line">it goes an equal distance into the world within.</p>
-        <p class="main-quote-attribution">-Lillian Smith</p>
+        <div class="main-quote-line-container">
+            <p class="main-quote-line">No journey carries one far unless, 
+                as it extends into the world around us,
+                it goes an equal distance into the world within.</p>
+            <p class="main-quote-attribution">-Lillian Smith</p>
+        </div>
+        
     </div>
+    <div class="divider"></div>
 
 
 
@@ -157,11 +161,22 @@
     }
 
     .main-quote {
-        margin-top: 2rem;
+        margin-top: 5rem;
         width: 100%;
         font-family: 'Moontime', sans-serif;
         font-size: 2rem;
         text-align: center;
+        align-items: center;
+    }
+
+    .main-quote-line-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-left: 4rem;
+        padding-right: 4rem;
+        max-width: 420px;
+        margin: 0 auto;
     }
 
     .main-quote-line {
@@ -170,6 +185,13 @@
 
     .main-quote-attribution {
         margin-top: 0.5rem;
+    }
+
+    .divider {
+        width: 75%;
+        height: 1px;
+        background-color: var(--light-color);
+        margin: 2rem auto 0;
     }
 
 
@@ -211,9 +233,7 @@
             padding: 1rem;
         }
 
-        .main-quote {
-        font-size: 1.5rem;
-    }
+
     }
 
     /* Small mobile screens */
@@ -221,6 +241,11 @@
         .hero-img {
             max-width: 100%;
         }
+
+        .main-quote-line-container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
 
     }
 </style>
