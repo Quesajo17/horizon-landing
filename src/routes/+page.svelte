@@ -20,6 +20,7 @@
     </div>
 </div>
 <div class="details">
+    <h1>What's Inside?</h1>
     
     <div class="details-trio">
         <div class="details-item">
@@ -59,7 +60,7 @@
         </div>
         
     </div>
-    <div class="divider"></div>
+
 
 
 
@@ -137,6 +138,16 @@
         padding: 2rem 0;
     }
 
+    .details h1 {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .details-summary {
+        text-align: center;
+        margin: 0 auto;
+    }
+
     .details-trio {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
@@ -185,13 +196,6 @@
 
     .main-quote-attribution {
         margin-top: 0.5rem;
-    }
-
-    .divider {
-        width: 75%;
-        height: 1px;
-        background-color: var(--light-color);
-        margin: 2rem auto 0;
     }
 
 

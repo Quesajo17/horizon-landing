@@ -3,7 +3,7 @@
     import { onMount, } from 'svelte';
     import { slide } from 'svelte/transition';
 
-  const items = ["a travel companion", "a guided journal", "a travel keepsake"];
+  const items = ["a travel companion", "a guided journal", "a keepsake"];
   let currentIndex = 0;
 
   function spin() {

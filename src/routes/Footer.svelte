@@ -3,6 +3,7 @@
 </script>	
 
 <footer>
+	<div class="divider"></div>
 	<div class="footer-copyright">
 		<span>Copyright Page Fam Designs, LLC, 2025</span>
 	</div>
@@ -31,6 +32,13 @@
 	.footer-links a {
 		padding: 10px;
 	}
+
+	.divider {
+        width: 75%;
+        height: 1px;
+        background-color: var(--dark-color);
+        margin: 2rem auto 0.5rem;
+    }
 
 	@media (min-width: 480px) {
 		footer {

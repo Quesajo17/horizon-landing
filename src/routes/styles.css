@@ -17,6 +17,7 @@ body {
 h1 {
     font-family: 'Moontime', sans-serif;
     font-size: 4rem;
+    font-weight: 400;
 }
 
 h3 {

@@ -7,9 +7,7 @@
         </p>
         
         <div class="contact-info">
-            <p>📧 Email: example@horizon.com</p>
-            <p>📱 Phone: (555) 123-4567</p>
-            <p>📍 Address: 123 Travel Street, Adventure City, AC 12345</p>
+            <p>📧 Email: info@horizontraveljournal.com</p>
         </div>
         
         <p>

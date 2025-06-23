@@ -5,10 +5,10 @@
  out on months of travel around the world. After saving for years, 
  selling much of our belongings and leaving our jobs we boarded our 
  one way ticket to Europe. </p>
- <p>Through the highs of living with locals, visiting places we only , 
+ <p>Through the highs of living with locals, an abundance of time,
     indulging in new cuisine, history and sights and the challenges of
      health scares, disagreements, language barriers and navigating 
-     foreign cities we grew a new understanding about ourselves, our 
+     unfamiliar places we grew a new understanding about ourselves, our 
      values and the world around us.</p>
  <p>When we returned home, we were inspired and motivated to change a few 
     things in our daily life because of our trip. We moved, we chose to own 
