@@ -97,6 +97,7 @@
     .hero-cta {
         flex: 1;
         min-width: 300px;
+        font-size: 1.25rem;
     }
 
     .hero-img {
@@ -143,6 +144,10 @@
         margin: 0 auto;
     }
 
+    .details h3 {
+        font-size: 3rem;
+    }
+
     .details-summary {
         text-align: center;
         margin: 0 auto;
@@ -162,6 +167,7 @@
         flex-direction: column;
         align-items: center;
         text-align: center;
+        font-size: 1.25rem;
     }
 
     .details-item img {
@@ -175,7 +181,7 @@
         margin-top: 5rem;
         width: 100%;
         font-family: 'Moontime', sans-serif;
-        font-size: 2rem;
+        font-size: 3rem;
         text-align: center;
         align-items: center;
     }
@@ -186,7 +192,7 @@
         align-items: center;
         padding-left: 4rem;
         padding-right: 4rem;
-        max-width: 420px;
+        max-width: 768px;
         margin: 0 auto;
     }
 
