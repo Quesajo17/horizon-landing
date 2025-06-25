@@ -40,7 +40,7 @@
             <!-- <img src='/images/Horizon_Return.jpg' alt="Return Page" /> -->
             <p>Document daily highlights, key logistics, 
                 and memorable moments. Reflect deeper with over two dozen prompts designed 
-                to explore your thoughts, emotions, and sensory experiences as you travel.</p>
+                to explore your thoughts, emotions, and sensory experiences.</p>
         </div>
         <div class="details-item">
             <h3>After</h3>
