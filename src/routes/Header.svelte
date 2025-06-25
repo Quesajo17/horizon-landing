@@ -51,15 +51,15 @@
 	}
 
 	.brand-image {
-		width: 80px;
-		height: 80px;
+		width: 120px;
+		height: 120px;
 		object-fit: contain;
 		border-radius: 20%;
 	}
 
 	.logo {
-		width: 80px;
-		height: 80px;
+		width: 120px;
+		height: 120px;
 		object-fit: contain;
 		border-radius: 20%;
 	}
@@ -74,6 +74,7 @@
 	.header-link {
 		padding: 1em;
 		text-decoration: none;
+		font-size: 1rem;
 		color: var(--color-text);
 		font-family: 'Opti-Goudy', sans-serif;
 	}
