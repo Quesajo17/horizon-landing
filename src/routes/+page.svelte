@@ -59,7 +59,7 @@
             <p class="main-quote-line">No journey carries one far unless, 
                 as it extends into the world around us,
                 it goes an equal distance into the world within.</p>
-            <p class="main-quote-attribution">-Lillian Smith</p>
+            <p class="main-quote-attribution">Lillian Smith</p>
         </div>
         
     </div>
@@ -196,7 +196,7 @@
         align-items: center;
         padding-left: 4rem;
         padding-right: 4rem;
-        max-width: 768px;
+        max-width: 640px;
         margin: 0 auto;
     }
 
@@ -206,6 +206,7 @@
 
     .main-quote-attribution {
         margin-top: 0.5rem;
+        font-size: 2rem;
     }
 
 
