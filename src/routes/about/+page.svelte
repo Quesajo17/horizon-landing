@@ -1,29 +1,35 @@
 <div class="about-container">
     <h1>About</h1>
     <div class="content">
-<p>Nearly a decade ago, my husband, Charlie and I set
- out on months of travel around the world. After saving for years, 
- selling much of our belongings and leaving our jobs we boarded our 
- one way ticket to Europe. </p>
- <p>Through the highs of living with locals, an abundance of time,
-    indulging in new cuisine, history and sights and the challenges of
-     health scares, disagreements, language barriers and navigating 
-     unfamiliar places we grew a new understanding about ourselves, our 
-     values and the world around us.</p>
+<p>Nearly a decade ago, my husband Charlie and I set off on an extended 
+    journey around the world. After years of saving, selling much of 
+    what we owned, and leaving our jobs behind, we boarded a one-way flight 
+    to Europe—equal parts nervous and excited.</p>
+ <p>We experienced the highs of living with locals, indulging in new cuisine, 
+    soaking in gorgeous landscapes, learning unfamiliar history and embracing 
+    the freedom of unstructured time. We also faced the challenges of health 
+    scares, a tight budget, language barriers, disagreements and constantly 
+    navigating the unknown. Through it all, we discovered more about 
+    ourselves, our values, and the world around us.</p>
  <p>When we returned home, we were inspired and motivated to change a few 
-    things in our daily life because of our trip. We moved, we chose to own 
-    less and felt committed to keeping the open mind and sense of adventure 
-    we had while traveling. At home, if felt like our travels came alive 
-    again in new and unexpected ways. </p>
- <p>What we learned from our own experience and from talking to, and reading 
-    about, dozens of other travelers… traveling often unlocks something, 
-    brings a new appreciation, reminds us of what we forgot or clarifies 
-    something cloudy. What better place than home to turn those insights 
-    into reality? However “small” or “big” they may seem.</p>
- <p>We wanted to create a journal that supported this experience of travel: 
-    one full of anticipation and excitement, unexpected highs and challenges 
-    and meaningful changes, appreciation and insights upon one’s return home. </p>
- <p>Hence, Horizon Travel Journal came to be. </p>
+    things in our daily life. We moved. We chose to own less. We were 
+    committed to keeping the open mind and sense of adventure we had while 
+    traveling. In unexpected ways, our journey began to shape our everyday 
+    lives.</p>
+ <p>We came to realize something powerful—something reflected in the stories
+     of countless other travelers we read about and talked to: Travel can 
+     remind us of what we've forgotten or reveal something entirely new. 
+     It can offer a fresh perspective, a new appreciation, and clarity. 
+     What better place than home to turn those insights into real, 
+     lasting change?</p>
+ <p>We created <b>Horizon Travel Journal</b> to honor this journey. It's 
+    designed to capture the full arc of travel—its anticipation and 
+    excitement, its surprises and challenges, and the meaningful shifts 
+    that can emerge when we return home.</p>
+ <p>Whether your travels are across the globe or close to home, we hope 
+    this journal helps you plan, reflect, appreciate, and bring the spirit 
+    of travel into everyday life.</p>
+    <h3>-Allie</h3>
     </div>
 </div>
 

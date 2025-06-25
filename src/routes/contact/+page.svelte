@@ -9,6 +9,9 @@
         <div class="contact-info">
             <p>📧 Email: <a href="mailto:info@horizontraveljournal.com">info@horizontraveljournal.com</a></p>
         </div>
+        <p>
+            We'd love to hear from you!
+        </p>
     </div>
 </div>
 

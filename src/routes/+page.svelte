@@ -10,7 +10,7 @@
         <div class="hero-header">
             <span class="hero-title">Horizon is</span><span class="hero-subtitle"><SlotMachine /></span>
         </div>
-        <p class="">Build your excitement as you plan, absorb your favorite moments during your trip and bring the best parts back home!</p>
+        <p class="">Build your excitement as you plan, absorb your favorite moments while traveling and bring the best parts back home!</p>
     </div>
     <div class="hero-img">
         <img src='/images/Horizon_Journal.jpg' alt="Journal" />
@@ -28,16 +28,15 @@
             <!-- <img src='/images/Horizon_Packing_List.jpg' alt="Packing List Page" /> -->
             
                 <p>
-                    Fuel your excitement while recording important preparations before
-                    your trip even begins with sections including intention setting, 
-                    packing list, itinerary, travel budget, and more. </p>
+                    Stay organized and inspired with sections for travel essentials: intention 
+                    setting, packing list, itinerary, budget, and more.</p>
         </div>
         <div class="details-item">
             <h3>During</h3>
             <!-- <img src='/images/Horizon_Return.jpg' alt="Return Page" /> -->
-            <p>Record daily events and important logistics during your trip, and
-                reflect on your experiences with over two dozen prompts that tap into
-            your thoughts, emotions, and sensations as you travel.</p>
+            <p>Capture your journey with ease — document daily highlights, key logistics, 
+                and memorable moments. Reflect deeper with over two dozen prompts designed 
+                to explore your thoughts, emotions, and sensory experiences as you travel.</p>
         </div>
         <div class="details-item">
             <h3>After</h3>
