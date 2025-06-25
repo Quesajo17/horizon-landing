@@ -11,7 +11,7 @@
 		<a class="header-link" href="/">
 			Home
 		</a>
-		<a class="header-link" href="\/about">
+		<a class="header-link" href="/about">
 			About
 		</a>
 		<a class="header-link" href="/contact">
