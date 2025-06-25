@@ -23,8 +23,8 @@
  <p>We created <b>Horizon Travel Journal</b> to honor this journey. It's 
     designed to capture the full arc of travel—its anticipation and 
     excitement, its surprises and challenges, and the meaningful shifts 
-    that can emerge when we return home.</p>
- <p>Whether your travels are across the globe or close to home, we hope 
+    that can emerge when we return home. 
+    Whether your travels are across the globe or close to home, we hope 
     this journal helps you plan, reflect, appreciate, and bring the spirit 
     of travel into everyday life.</p>
     <h3>-Allie</h3>
