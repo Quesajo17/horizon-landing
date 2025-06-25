@@ -16,12 +16,10 @@
     committed to keeping the open mind and sense of adventure we had while 
     traveling. In unexpected ways, our journey began to shape our everyday 
     lives.</p>
- <p>We came to realize something powerful—something reflected in the stories
-     of countless other travelers we read about and talked to: Travel can 
-     remind us of what we've forgotten or reveal something entirely new. 
-     It can offer a fresh perspective, a new appreciation, and clarity. 
-     What better place than home to turn those insights into real, 
-     lasting change?</p>
+ <p>What we learned from our own experience and from talking to, and reading
+     about, dozens of other travelers… traveling often unlocks something, 
+     brings a new appreciation, reminds us of what we forgot or gives us 
+     clarity. What better place than home to turn those insights into reality? </p>
  <p>We created <b>Horizon Travel Journal</b> to honor this journey. It's 
     designed to capture the full arc of travel—its anticipation and 
     excitement, its surprises and challenges, and the meaningful shifts 

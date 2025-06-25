@@ -21,14 +21,18 @@
 </div>
 <div class="details">
     <h1>What's Inside?</h1>
-    
+    <div class="details-summary">
+        <p class="details-item">What makes Horizon unique? Its one-of-a-kind design captures the full arc of travel:
+            the anticipation and excitement before, the surprises and challenges during, and the meaningful 
+            shifts that can emerge when you return home.</p>
+    </div>
     <div class="details-trio">
         <div class="details-item">
             <h3>Before</h3>
             <!-- <img src='/images/Horizon_Packing_List.jpg' alt="Packing List Page" /> -->
             
                 <p>
-                    Stay organized and inspired with sections for travel essentials: intention 
+                    Stay organized and inspired with sections for planning: intention 
                     setting, packing list, itinerary, budget, and more.</p>
         </div>
         <div class="details-item">
@@ -150,6 +154,7 @@
     .details-summary {
         text-align: center;
         margin: 0 auto;
+        max-width: 80%;
     }
 
     .details-trio {
@@ -254,6 +259,10 @@
         .main-quote-line-container {
         padding-left: 1rem;
         padding-right: 1rem;
+    }
+
+    .details-summary {
+        max-width: 90%;
     }
 
     }
