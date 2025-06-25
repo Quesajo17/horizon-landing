@@ -34,7 +34,7 @@
         <div class="details-item">
             <h3>During</h3>
             <!-- <img src='/images/Horizon_Return.jpg' alt="Return Page" /> -->
-            <p>Capture your journey with ease — document daily highlights, key logistics, 
+            <p>Document daily highlights, key logistics, 
                 and memorable moments. Reflect deeper with over two dozen prompts designed 
                 to explore your thoughts, emotions, and sensory experiences as you travel.</p>
         </div>
