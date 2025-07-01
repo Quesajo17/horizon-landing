@@ -22,7 +22,7 @@
 <div class="details">
     <h1>What's Inside?</h1>
     <div class="details-summary">
-        <p class="details-item">What makes Horizon unique? Its one-of-a-kind design captures the full arc of travel:
+        <p class="details-item">Horizon's one-of-a-kind design captures the full arc of travel:
             the anticipation and excitement before, the surprises and challenges during, and the meaningful 
             shifts that can emerge when you return home.</p>
     </div>

@@ -24,8 +24,9 @@
 
 	<!-- Navigation links -->
 	<nav class="header-links" class:open={isMenuOpen}>
-		<a class="header-link menu-link" href="https://store.horizontraveljournal.com/" on:click={() => isMenuOpen = false}>Shop</a>
 		<a class="header-link" href="/" on:click={() => isMenuOpen = false}>Home</a>
+		<div class="menu-divider"></div>
+		<a class="header-link menu-link" href="https://store.horizontraveljournal.com/" on:click={() => isMenuOpen = false}>Shop</a>
 		<div class="menu-divider"></div>
 		<a class="header-link" href="/about" on:click={() => isMenuOpen = false}>About</a>
 		<div class="menu-divider"></div>
@@ -150,10 +151,13 @@
 		.header-link {
 			padding: 0.5em;
 			width: 100%;
+			margin: 0 auto;
 		}
 
 		.menu-link {
-		display: none;
+		display: block;
+		width: 100%;
+		margin: 0 auto;
 	}
 
 		.button {
