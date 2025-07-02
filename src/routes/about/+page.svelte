@@ -31,6 +31,7 @@
     <h3>-Allie</h3>
     <div class="about-picture">
         <img src="/images/About_Picture.jpg" alt="About" />
+        <p class="image-caption">Us: 10 years ago at the start of our travels</p>
     </div>
     
     </div>
@@ -55,6 +56,14 @@
         display: block;
         margin: 0 auto;
         border-radius: 10px;
+    }
+
+    .image-caption {
+        text-align: center;
+        font-style: italic;
+        color: #666;
+        margin-top: 0.5rem;
+        font-size: 0.9rem;
     }
 
     h1 {
