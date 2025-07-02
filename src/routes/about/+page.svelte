@@ -17,7 +17,7 @@
     traveling. In unexpected ways, our journey began to shape our everyday 
     lives.</p>
  <p>We realized the experience we had was true of many other travelers we 
-    talked to and read about. Traveling has the ability to awaken things in 
+    talked to and read about. Traveling has the ability to awaken  
     us: to open us up to new possibilities, remind us of things we've 
     forgotten, or bring new clarity. What better place than home to turn 
     those insights into reality? </p>
