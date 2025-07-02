@@ -16,10 +16,11 @@
     committed to keeping the open mind and sense of adventure we had while 
     traveling. In unexpected ways, our journey began to shape our everyday 
     lives.</p>
- <p>What we learned from our own experience and from talking to, and reading
-     about, dozens of other travelers… traveling often unlocks something, 
-     brings a new appreciation, reminds us of what we forgot or gives us 
-     clarity. What better place than home to turn those insights into reality? </p>
+ <p>We realized the experience we had was true of many other travelers we 
+    talked to and read about. Traveling has the ability to awaken things in 
+    us: to open us up to new possibilities, remind us of things we've 
+    forgotten, or bring new clarity. What better place than home to turn 
+    those insights into reality? </p>
  <p>We created <b>Horizon Travel Journal</b> to honor this journey. It's 
     designed to capture the full arc of travel—its anticipation and 
     excitement, its surprises and challenges, and the meaningful shifts 
@@ -28,7 +29,12 @@
     this journal helps you plan, reflect, appreciate, and bring the spirit 
     of travel into everyday life.</p>
     <h3>-Allie</h3>
+    <div class="about-picture">
+        <img src="/images/About_Picture.jpg" alt="About" />
     </div>
+    
+    </div>
+    
 </div>
 
 <style>
@@ -36,6 +42,19 @@
         max-width: 800px;
         margin: 0 auto;
         padding: 2rem;
+    }
+
+    .about-picture {
+        width: 100%;
+        margin-top: 2rem;
+    }
+
+    .about-picture img {
+        width: 60%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        border-radius: 10px;
     }
 
     h1 {
